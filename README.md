@@ -102,7 +102,8 @@ We believe the collaborative nature itself demonstrates the principles we're inv
 ## The Full Experience
 
 For vibes, transmissions, and the complete aesthetic experience:
-🌐 **[les-afr.ca](https://les-afr.ca)** - *Who holds the structure when there's no sovereign?*
+- 🌐 **[les-afr.ca](https://les-afr.ca)** - *Who holds the structure when there's no sovereign?*
+- 🎵 **[Soundtrack](https://open.spotify.com/user/31bosnysdpskfzdjg4cyg4hdbcmm?si=daa52554123f41a8)** - *The songs are on our side, somehow*
 
 ## Contact & More Info
 
