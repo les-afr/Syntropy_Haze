@@ -1,0 +1,16 @@
+Event,Time_seconds
+Control_1_Start,0
+Control_1_End,73
+Condition_A_Start,73
+Condition_A_End,210
+Control_2_Start,210
+Control_2_End,291
+Condition_B_Start,295
+Condition_B_End,375
+Control_3_Start,375
+Control_3_End,460
+Condition_AB_Start,465
+Condition_AB_End,537
+Control_4_Start,537
+Control_4_End,605
+Candles_Out,620
